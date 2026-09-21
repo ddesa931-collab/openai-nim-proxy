@@ -39,7 +39,8 @@ const MODEL_MAPPING = {
   'deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro-0813',
   'nemotron-3-ultra': 'nvidia/nemotron-3-ultra-550b-a55b',
   'nemotron-3-nano-omni': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning',
-  'deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash-0731'
+  'deepseek-v4-flash': 'deepseek-ai/deepseek-v4-flash-0731',
+  'kimi-k3': 'moonshotai/kimi-k3-instruct'
 };
 
 // Health check endpoint
